@@ -65,17 +65,18 @@ mark {
 #videoAndText {
   display: flex;
   flex-direction: row;
-  margin-left: 20%;
   column-gap: 60px;
   padding-top: 3%;
   padding-bottom: 4%;
   padding-left: 5%;
+  margin: auto;
+  width: 70%;
 }
 
 #videoText {
   display: flex;
   flex-direction: column;
-  padding-right: 25%;
+  /*padding-right: 25%;*/
 }
 
 #stillHeader {
